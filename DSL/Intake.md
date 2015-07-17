@@ -1,4 +1,4 @@
-# Intake
+# Intake subdomain
 
 Authorized Intake User:
 Animal:
@@ -8,4 +8,4 @@ Animal:
   Gender: male or female
   Type: Either a cat or a dog (cat/dog or feline/canine?)
 Intake:
-Rescue:
+Rescue: Charitable organization 501(3)(b) that takes in animal at a fixed capacity.
